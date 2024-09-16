@@ -1,2 +1,3 @@
-# Jenna-Ortega-History
-Um blog especializado para apresentar a história e trajetória da artista Jenna Ortega
+<p align="center">
+  <img src=".github/Capa do Projeto.png" width="100%" />
+</p>
