@@ -37,4 +37,4 @@ Vídeo de revelação:
 
 ⚠️ AVISO: ESSE PROJETO FUNCIONA APENAS EM COMPUTADOR (PC/DESKTOP), POR ENQUANTO AINDA NÃO FOI RESPONSIVO PARA SMARTPHONES OU TABLETS!
 
-Link do site: [Jenna Ortega History]("https://dieguinrio.github.io/Jenna-Ortega-History/Index.html")
+Link do site: ("https://dieguinrio.github.io/Jenna-Ortega-History/Index.html")
