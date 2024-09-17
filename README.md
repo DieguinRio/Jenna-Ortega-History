@@ -36,3 +36,5 @@ O projeto **Jenna Ortega History**, possui a proposta de apresentar aos novos f�
 Vídeo de revelação: 
 
 ⚠️ AVISO: ESSE PROJETO FUNCIONA APENAS EM COMPUTADOR (PC/DESKTOP), POR ENQUANTO AINDA NÃO FOI RESPONSIVO PARA SMARTPHONES OU TABLETS!
+
+Link do site: [Jenna Ortega History]("https://dieguinrio.github.io/Jenna-Ortega-History/Index.html")
