@@ -33,7 +33,7 @@ O projeto **Jenna Ortega History**, possui a proposta de apresentar aos novos f�
 
 ## 📺 Youtube
 
-Vídeo de revelação: 
+Vídeo de revelação: ("https://youtu.be/GmqpMqYqNIY?si=37GtY0lo3Y2XKgPv") 
 
 ⚠️ AVISO: ESSE PROJETO FUNCIONA APENAS EM COMPUTADOR (PC/DESKTOP), POR ENQUANTO AINDA NÃO FOI RESPONSIVO PARA SMARTPHONES OU TABLETS!
 
